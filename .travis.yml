@@ -2,3 +2,4 @@ language: node_js
 node_js:
   - '6.5.0'
 script: cd travis-ci-example && npm install && npm test
+
